@@ -42,8 +42,19 @@ Java. Aplicações em Java são compiladas em código de byte que pode rodar em 
 [[12]](https://github.com/rosacarla/100-days-of-code-challenge-Java/tree/main/ProjetoPessoas/src/projeto/pessoas) - classe Pessoa, herança de implementação, métodos personalizados, método toString  
 [[13]](https://github.com/rosacarla/100-days-of-code-challenge-Java/tree/main/Aula11/src/aula11/projeto) - classe Pessoa (Aula11), herança para diferença, sobreposição de métodos, métodos personalizado e toString, polimorfismo  
 [[14]](https://github.com/rosacarla/100-days-of-code-challenge-Java/tree/main/Aula12/src/aula12/projeto) - classe Animal, classe abstrata, metodo abstrato, herança, métodos personalizados e toString, sobreposição de métodos, polimorfismo  
+[[15]](https://github.com/rosacarla/Banco-digital-com-Java-POO/tree/master/digital-bank-challenge/src/dio/com/digital/bank) - Banco Digital, classe abstrata, constante, variavel de controle para nº sequencial, herança, interface, encapsulamento, sobreposições  
+[[16]](https://github.com/rosacarla/Mentoria-GFT-orientacao-a-objetos-Java/tree/master/src/me/dio) - Gerenciamento de Colaboradores, cálculo de bonifificação, encapsulamento, herança, composição, polimorfismo  
+[[17]](https://github.com/rosacarla/Mentoria-GFT-orientacao-a-objetos-Java/blob/master/java-classes-poo/src/dio/com/java/Customer.java) - classe modela um aluno de academia, atributos(nome e data de nascimento), método para calcular idade  
+[[18]](https://github.com/rosacarla/Mentoria-GFT-orientacao-a-objetos-Java/blob/master/java-classes-poo/src/dio/com/java/Enrollment.java) - classe para matrícula de aluno, atributos(Id matricula, data matr., aluno, avaliações fís.), métodos(info. da últ. aval., info. aval. pela data)  
+[[19]](https://github.com/rosacarla/Mentoria-GFT-orientacao-a-objetos-Java/blob/master/java-classes-poo/src/dio/com/java/Assessment.java) - avaliação física, atributos(id, matricula, nome avaliador, data aval, peso, altura, status, imc), métodos(status aval, incluir aval e matr.)  
+[[20]](https://github.com/rosacarla/Mentoria-GFT-orientacao-a-objetos-Java/blob/master/java-classes-poo/src/dio/com/java/CurrentAccount.java) - conta corrente, atributos(nº conta, nome correntista, saldo), métodos(depósito, saque), construtor(saldo opcional, valor default zero)  
+[[21]](https://github.com/rosacarla/Mentoria-GFT-orientacao-a-objetos-Java/blob/master/java-classes-poo/src/dio/com/java/Rectangle.java) - retângulo, atributos(LadoA, LadoB (ou Compr+Larg, Base+Alt)), métodos(mudar val. lados, retornar val. lados, calcular área e perímetro)  
+[[22]](https://github.com/rosacarla/Mentoria-GFT-orientacao-a-objetos-Java/blob/master/java-classes-poo/src/dio/com/java/Square.java) - quadrado, atributo tamanho do lado, métodos(mudar valor de lados, retornar valor de lados, calcular área e perímetro), herança  
+[[23]](https://github.com/rosacarla/Mentoria-GFT-orientacao-a-objetos-Java/blob/master/java-classes-poo/src/dio/com/java/GeometricCalculations.java) - calculadora geométrica, calcula área e perímetro de retângulo e quadrado  
 
----  
+
+---   
+
 
 ## ✍️Autora  
 
