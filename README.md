@@ -70,7 +70,7 @@ Java. Aplicações em Java são compiladas em código de byte que pode rodar em 
 [[40]](https://github.com/rosacarla/GFT-start-woman-java/blob/main/011%20Estrutura-repeticao-arrays/exercises-loops-arrays/src/dio/com/loops/Tabuada.java) - gerador de tabuada (qualquer nro inteiro entre 1 a 10), usuário deve informar de qual nro deseja gerar a tabuada  
 [[41]](https://github.com/rosacarla/100-days-of-code-challenge-Java/blob/main/exercicios-java-poo/src/exercicios/java/parte/a/TesteNumeros.java) - TesteNumeros, ler 5 nros e imprimir o maior, o menor e a média, mensagem para todos nros iguais  
 [[42]](https://github.com/rosacarla/100-days-of-code-challenge-Java/blob/main/exercicios-java-poo/src/exercicios/java/parte/a/AppDiasDeVida.java) - AppDiasDeVida, substring, conversao de formato de datas, diferença entre data atual e data inicial  
-[[43]](https://github.com/rosacarla/100-days-of-code-challenge-Java/tree/main/ProjetoContas/src/projeto/contas) - ProjetoContas, classe abstrata, herança, sobreposição de método, formatação de double (String.format("%.2f", arg))  
+[[43]](https://github.com/rosacarla/100-days-of-code-challenge-Java/tree/main/ProjetoContas/src/projeto/contas) - ProjetoContas, classe abstrata, herança, sobreposição método, formatação double (String.format("%.2f", arg))  
 
 
 ---   
