@@ -51,7 +51,6 @@ Java. Aplicações em Java são compiladas em código de byte que pode rodar em 
 [[21]](https://github.com/rosacarla/Mentoria-GFT-orientacao-a-objetos-Java/blob/master/java-classes-poo/src/dio/com/java/Rectangle.java) - retângulo, atrib.(LadoA, LadoB ou Base+Alt), mét.(muda val lados,retorna val lados,calcula área, perímetro)  
 [[22]](https://github.com/rosacarla/Mentoria-GFT-orientacao-a-objetos-Java/blob/master/java-classes-poo/src/dio/com/java/Square.java) - quadrado, atributo tam. lado, mét.(mudar val lados, retornar val lados, calcular área e perímetro), herança  
 [[23]](https://github.com/rosacarla/Mentoria-GFT-orientacao-a-objetos-Java/blob/master/java-classes-poo/src/dio/com/java/GeometricCalculations.java) - calculadora geométrica, calcula área e perímetro de retângulo e quadrado  
-<<<<<<< Updated upstream
 [[24]](https://github.com/rosacarla/100-days-of-code-challenge-Java/tree/main/Aula13/src/aula13/projeto) - classe abstrata Animal, herança, sobreposição e sobrecarga de métodos  
 [[25]](https://github.com/rosacarla/100-days-of-code-challenge-Java/tree/main/ProjetoYoutube/src/projeto/youtube) - ProjetoYoutube, interface, herança, agregação, sobrecarga de metodos, seobreposição toString, vetor de objetos  
 [[26]](https://github.com/rosacarla/100-days-of-code-challenge-Java/tree/main/ProjetoLoja/src/projeto/loja) - ProjetoLoja, interface, herança, sobreposição de metodos, impressao com for, lista de objetos, isEmpty()  
@@ -69,28 +68,8 @@ Java. Aplicações em Java são compiladas em código de byte que pode rodar em 
 [[38]](https://github.com/rosacarla/GFT-start-woman-java/blob/main/011%20Estrutura-repeticao-arrays/exercises-loops-arrays/src/dio/com/loops/Nota.java) - pedir nota entre 0 e 10, mostrar mensagem para valor nválido, continuar pedindo até informar valor válido, loop while  
 [[39]](https://github.com/rosacarla/GFT-start-woman-java/blob/main/011%20Estrutura-repeticao-arrays/exercises-loops-arrays/src/dio/com/loops/ParEImpar.java) - pedir N números inteiros, calcular e mostrar quantidade de números pares e de números impares  
 [[40]](https://github.com/rosacarla/GFT-start-woman-java/blob/main/011%20Estrutura-repeticao-arrays/exercises-loops-arrays/src/dio/com/loops/Tabuada.java) - gerador de tabuada (qualquer nro inteiro entre 1 a 10), usuário deve informar de qual nro deseja gerar a tabuada  
-=======
-[[24]]() - classe abstrata Animal, herança, sobreposição e sobrecarga de métodos
-[[25]]() - ProjetoYoutube, interface, herança, agregação, sobrecarga de metodos, seobreposição toString, vetor de objetos  
-[[26]]() - ProjetoLoja, interface, herança, sobreposição de metodos, impressao com for, lista de objetos, isEmpty()
-[[27]]() - número reverso, estrutura condicional if-esle if, loop do-while  
-[[28]]() - classe Macaco, lista, estrutura condicional if-else, size(), isEmpty(), remove  
-[[29]]() - pacote funcionarios, encapsulamento, herança, metodo calculaSalario(), constante para sal minino  
-[[30]]() - JogoCraps, lista, loop do-while, condicional if-else, classe Random  
-[[31]]() - matriz M 4x4 de valores aleatórios (0 e 9), mostra menor nro da matriz e posição(lin, col), array multimensional  
-[[32]]() - ler vetor de 6 caracteres, conta quantas consoantes foram lidas e imprime a consoantes  
-[[33]]() - ler vetor de 20 números inteiros (entre 0 e 100), mostrar números e seus sucessores  
-[[34]]() - criar vetor de 6 números inteiros e mostrar na ordem inversa  
-[[35]]() - calculear fatorial de nro inteiro fornecido pelo usuário, loop for, if-else  
-[[36]]() - ler 5 nros e informar maior número e a média dos números  
-[[37]]() - ler conj. de 2 valores, 1o. é nome do aluno, 2o. é idade, parar inserindo 0 no campo nome  
-[[38]]() - pedir nota entre 0 e 10, mostrar mensagem para valor nválido, continuar pedindo até informar valor válido, loop while  
-[[39]]() - pedir N números inteiros, calcular e mostrar quantidade de números pares e de números impares  
-[[40]]() - gerador de tabuada (qualquer nro inteiro entre 1 a 10), usuário deve informar de qual nro deseja gerar a tabuada  
-[[41]]() - TesteNumeros, ler 5 nros e imprimir o maior, o menor e a média, mensagem para todos nros iguais 
-[[42]]() - AppDiasDeVida, substring, conversao de formato de datas, diferença entre data atual e data inicial  
-
->>>>>>> Stashed changes
+[[41]](https://github.com/rosacarla/100-days-of-code-challenge-Java/blob/main/exercicios-java-poo/src/exercicios/java/parte/a/TesteNumeros.java) - TesteNumeros, ler 5 nros e imprimir o maior, o menor e a média, mensagem para todos nros iguais  
+[[42]](https://github.com/rosacarla/100-days-of-code-challenge-Java/blob/main/exercicios-java-poo/src/exercicios/java/parte/a/AppDiasDeVida.java) - AppDiasDeVida, substring, conversao de formato de datas, diferença entre data atual e data inicial
 
 
 ---   
